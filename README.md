@@ -1,6 +1,9 @@
 # EOM
 A binder table to represent set of data stream flow event with benefited of luau type.
 
+To use fully luau type you must enable this option in roblox studio.
+![alt text](image.png)
+
 # Exmaple
 ```lua
 local EOM = require(script.EOM)
